@@ -45,9 +45,7 @@ Users can upload their resume, select a job role, attend AI-generated mock inter
 - OpenRouter AI API
 - Razorpay Payment Gateway
 
----
 
-# 📂 Project Structure
 
 #▶️ Run Project
 1.Start Backend
@@ -69,19 +67,15 @@ Users can upload their resume, select a job role, attend AI-generated mock inter
 .User can download report as PDF
 .Interview history is stored for future tracking
 
-##🧠 AI Workflow
-.Resume is processed on the backend
-.Resume data + selected role are sent to OpenRouter API
-.AI dynamically generates interview questions
-.AI evaluates answers based on:
-.Relevance
-.Clarity
-.Technical Accuracy
-.Communication Quality
+##🌐 Live Demo
+https://interviewiq-frontend-qlnb.onrender.com/
 
 
 
 ##👨‍💻 Author
+
 Govind Yadav
+
+
 GitHub: https://github.com/Govindyadav-dev
 LinkedIn: https://www.linkedin.com/in/govind-yadav-dev
