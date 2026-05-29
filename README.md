@@ -1,7 +1,7 @@
 # 🚀 InterviewIQ.AI
 
 An AI-powered SaaS-based interview preparation platform built using the MERN stack.  
-Users can upload their resume, select a job role, attend AI-generated mock interviews, receive detailed feedback, and track their interview history.
+Users can upload their resume, select their target job role, attend AI-generated mock interviews, receive detailed feedback, and track their interview history.
 
 ---
 
@@ -73,7 +73,6 @@ https://interviewiq-frontend-qlnb.onrender.com/
 
 
 ##👨‍💻 Author
-
 Govind Yadav
 
 
