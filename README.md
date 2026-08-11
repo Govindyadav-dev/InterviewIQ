@@ -68,7 +68,7 @@ Users can upload their resume, select their target job role, attend AI-generated
 .Interview history is stored for future tracking
 
 ##🌐 Live Demo
-https://interviewiq-frontend-qlnb.onrender.com/
+https://interviewiq-client-09ok.onrender.com
 
 
 
