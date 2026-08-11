@@ -22,7 +22,7 @@ Users can upload their resume, select their target job role, attend AI-generated
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ## Frontend
 - React.js
@@ -47,7 +47,7 @@ Users can upload their resume, select their target job role, attend AI-generated
 
 
 
-#▶️ Run Project
+##▶️ Run Project
 1.Start Backend
 .cd server
 .npm run dev
